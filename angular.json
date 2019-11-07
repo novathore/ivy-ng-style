@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-ivy-bug"
+    }
+  },
+  "defaultProject": "ng-ivy-bug",
+  "cli": {
+    "analytics": false
+  }
 }
